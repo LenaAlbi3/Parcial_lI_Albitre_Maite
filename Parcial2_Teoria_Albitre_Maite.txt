@@ -1,0 +1,40 @@
+PROBLEMA 1
+
+- No, no es necesario guardar en un archivo los alquileres historicos ya que en el enunciado aclara lo mismo. De igual 
+manera seria util para poder tener un mejor control sobre los clientes que alquilan cada producto, para asegurarse de 
+que los devuelvan y poder reclamar las posibles no devoluciones
+- Si, usar una lista para guardar los productos disponibles seria lo ideal, para saber que productos pueden alquilarse 
+y poder actualizar la informacion a medida que sea necesario
+
+PROBLEMA 2
+
+- Si, seria bueno usar un archivo para evitar cargar la informacion cada vez que se inicie el programa ya que esta 
+informacion no variara mucho
+- Se podria usar un diccionario en caso que se le agregara un identificador unico a cada actividad, pero en mi 
+opinion seguiria siendo mas util una lista
+
+PROBLEMA 3
+
+- No, porque un cliente podria tener varios vuelos y un vuelo podria tener varios clientes, por lo que al tener 
+redundancia de keys no se podria usar un diccionario
+- No, como el texto aclara, no es necesario llevar un registro historico de las reservas canceladas.
+
+PROBLEMA 4
+
+- No, no es necesario guardar el historial completo de compras de un cliente ya que el enunciado menciona que no es 
+necesario guardar detalles de cada compra
+- Si, el encapsulamiento siempre es util debido a que protege a nuestras clases y propiedades.
+
+PROBLEMA 5
+
+- Si, un enum seria lo mas optimo en este caso ya que son tipos preestablecidos y con un enum guardamos espacio en memoria
+- Si, por mas que el enunciado diga que no es necesario llevar un registro historico de los autos que salen, debe 
+persistirse esa informacion para tener control sobre los autos que estan dentro y los que estan fuera, y poder actualizar 
+esa informacion siempre que haya alguna modificacion
+
+BONUS: 
+ 
+	El acceso publico permite que se pueda acceder a una clase/propiedad/procedimiento desde cualquier lugar.
+	El acceso protegido implica que solo se puede acceder desde la misma clase o clases heredadas.
+	El acceso privado solo permite el acceso dentro de la misma clase.
+

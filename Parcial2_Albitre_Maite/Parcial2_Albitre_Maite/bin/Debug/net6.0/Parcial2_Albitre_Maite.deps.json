@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parcial2_Albitre_Maite/1.0.0": {
+        "runtime": {
+          "Parcial2_Albitre_Maite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial2_Albitre_Maite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

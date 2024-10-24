@@ -1,0 +1,14 @@
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\bin\Debug\net6.0\Parcial2_Albitre_Maite.exe
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\bin\Debug\net6.0\Parcial2_Albitre_Maite.deps.json
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\bin\Debug\net6.0\Parcial2_Albitre_Maite.runtimeconfig.json
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\bin\Debug\net6.0\Parcial2_Albitre_Maite.dll
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\bin\Debug\net6.0\Parcial2_Albitre_Maite.pdb
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.AssemblyInfoInputs.cache
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.AssemblyInfo.cs
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.csproj.CoreCompileInputs.cache
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.dll
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\refint\Parcial2_Albitre_Maite.dll
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.pdb
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\Parcial2_Albitre_Maite.genruntimeconfig.cache
+C:\Users\malbitre\source\repos\Parcial2_Albitre_Maite\Parcial2_Albitre_Maite\obj\Debug\net6.0\ref\Parcial2_Albitre_Maite.dll
